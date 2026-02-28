@@ -1,0 +1,1 @@
+zone-main = "ru-central1-a"
