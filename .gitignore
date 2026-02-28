@@ -1,6 +1,6 @@
 key.json
 deploy.sh
-destroyy.sh
+destroy.sh
 ssh
 .terraform
 .terraform.lock.hcl
